@@ -1,10 +1,18 @@
-# Fall detection device 
+# LED MATRIX SCROLLING 
 
 ## Introduction: 
+### Background: 
 
-## Aim :
+
+### Aim:
+
+
+## Component: 
+
 
 ## Result :
+
+## Code Explanation : 
 
 
 ## Link to demo :
